@@ -17,8 +17,8 @@ export default function() {
         users: _.times(5, getUser)
     });
 
-    const createDemoData = function () {
-        return _.times(1000, getUser)
+    const createDemoData = function() {
+        return _.times(1000, getUser);
     };
 
     const collection = new Core.form.editors.reference.collections.DemoReferenceCollection(createDemoData());
