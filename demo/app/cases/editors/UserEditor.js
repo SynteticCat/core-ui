@@ -28,7 +28,6 @@ export default function() {
         key: 'users',
         format: 'user',
         autocommit: true,
-        showCheckboxes: true,
         maxQuantitySelected: 5,
         maxButtonItems: 2,
         fetchFiltered: true,
