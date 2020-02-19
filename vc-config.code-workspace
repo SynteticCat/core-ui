@@ -19,7 +19,7 @@
 	"extensions": {
 		"recommendations": [
 		  "dbaeumer.vscode-eslint",
-		  "thibaudcolas.stylelint"
+		  "stylelint.vscode-stylelint"
 		]
 	}
 }
