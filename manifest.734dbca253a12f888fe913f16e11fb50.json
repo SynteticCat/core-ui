@@ -1,0 +1,51 @@
+{
+  "icons": [
+    {
+      "src": "icon_512x512.fcff4271d5ae3728a9de51fcd51f1bc8.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_384x384.7b318db198bec11c4586efb16efe2928.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192x192.3420fe48c7b98b3e48be6ef2d8058cd0.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_152x152.b2666e72872ff41915d0a403f7d64ecf.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_144x144.1a171c39c07bf6b29d652e00a46adc2d.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_128x128.714d63aeda32d131b01d0ef137fd68a1.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_96x96.7aff45e523c76f5d83459fe6ebd25fe6.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_72x72.120a434576809a7246b0e3370eef5f3f.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+  ],
+  "name": "Comindware Core-ui demo",
+  "short_name": "Core.Demo",
+  "orientation": "landscape-secondary",
+  "display": "standalone",
+  "start_url": ".",
+  "background_color": "#ffffff",
+  "theme_color": "#0575bd"
+}
